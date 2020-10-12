@@ -10,4 +10,4 @@ prepend.shift("Odie")
 
 removeLast.pop()
 
-removeFirst(0)
+removeFirst.slice(0)
